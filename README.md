@@ -4,7 +4,7 @@
 
 A feature-rich GUI application for movie ticket booking with seat selection and payment processing, built using Python and Tkinter.
 
-## Features
+## Features of the Project
 
 - 🎬 **Movie Selection**: Choose from available movies with multiple showtimes
 - 💺 **Interactive Seat Map**: Visual 13x10 seat grid with real-time availability
