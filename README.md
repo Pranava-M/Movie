@@ -13,7 +13,7 @@ A feature-rich GUI application for movie ticket booking with seat selection and 
 - 📄 **Ticket Generation**: Printable digital tickets with booking details
 - 📊 **Booking History**: View all previous transactions in tabular format
 - 💾 **Data Persistence**: Automatic saving of bookings and seat availability
-- 🖨️ **Ticket Export**: Save tickets as text files for offline access
+- 🖨️ **Ticket Export**: Save tickets as text files for offline acces
 
 ## Installation
 
